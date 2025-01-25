@@ -71,7 +71,7 @@ else if(units>200)
     var f= q + 500;
     console.log("Rs 10 per unit charge="+ f +"Rs");
 
-    console.log("hii samruddhiii");
+    console.log("hii samruddhii");
 }
     
     
